@@ -1,0 +1,50 @@
+@import "tailwindcss";
+
+
+@font-face {
+    font-family: 'Helvetica';
+    src: url(../fonts/Helvetica/Helvetica.ttf);
+}
+@font-face {
+    font-family: 'Legend';
+    src: url(../fonts/Legend/legend-bold.otf);
+}
+
+@media(min-width < 768px){
+    :root{
+        font-size: 14px;
+    }
+}
+
+@theme{
+
+/* colors */
+    --color-primary: #1C3F20;
+    --color-secondary: #C39A2D;
+    --color-dark : #121212;
+
+
+/* fonts */
+    --font-legend:'Legend', sans-serif;
+    --font-helvetica: 'Helvetica', sans-serif;
+    --font-roboto: "Roboto", sans-serif;
+    --font-inter : "Inter", sans-serif;
+}
+
+
+/* .no-animate #hero-img-wrap{
+    transform: scale(0.1);
+    opacity: 0.6;
+}
+.no-animate #hero-img{
+    @apply top-full 
+}
+.noanimate #hero-img-wrap{
+    @apply scale-[1] opacity-100
+}
+.animate #hero-img{
+    @apply delay-1000 left-0 
+} */
+@layer utilities{
+
+}   
