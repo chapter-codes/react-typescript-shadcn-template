@@ -15,7 +15,7 @@ Follow these simple steps to get your development environment up and running.
 Start by cloning this template repository to your local machine:
 
 ```bash
-git clone [https://github.com/chapter-codes/react-typescript-shadcn-template.git](https://github.com/chapter-codes/react-typescript-shadcn-template.git)
+git clone https://github.com/chapter-codes/react-typescript-shadcn-template.git
 ````
 
 ### 2\. Navigate and Install Dependencies
