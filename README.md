@@ -1,10 +1,3 @@
------
-
-### How to Make Your README Display Correctly
-
-To make your README look like the first version I provided (with headings, bold text, and proper code blocks), you should use standard **Markdown syntax**.
-
-Here's the version you should paste into your `README.md` file for proper display:
 
 ````markdown
 # ⚡️ React (TypeScript) Starter Template
